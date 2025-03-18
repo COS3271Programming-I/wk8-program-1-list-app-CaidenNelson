@@ -1,0 +1,33 @@
+What would you like to add to the list?
+8
+[8]
+Would you like to continue the loop? yes or no
+yes
+What would you like to add to the list?
+ji
+[8, ji]
+Would you like to continue the loop? yes or no
+yes
+What would you like to add to the list?
+9834
+[8, ji, 9834]
+Would you like to continue the loop? yes or no
+yes
+What would you like to add to the list?
+891
+[8, ji, 9834, 891]
+Would you like to continue the loop? yes or no
+no
+Would you like to edit your list? yes or no
+yes
+Would you like to add, edit, or remove something from the list? 
+edit
+What index would you like to edit?
+2
+What would you like to add?
+bagel
+[8, ji, bagel, 891]
+Would you like to continue the loop? yes or no
+no
+
+Process finished with exit code 0
